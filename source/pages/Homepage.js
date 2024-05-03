@@ -28,7 +28,7 @@ const HomePage = ({navigation}) => {
         onPlaybackStatusUpdate={handlePlaybackStatusUpdate}
       /> }
       { <View style={styles.textContainer}>
-        <Text style={styles.text}>Boas-vindas ao Jean Mobile!</Text>
+        <Text style={styles.text}>Boas-vindas ao Riot Mobile!</Text>
         <Text style={styles.text2}>Faça login para conferir as últimas notícias, 
         visualizar seu perfil, assistir a partidas de Esports e conversar com amigos.</Text>
       </View> }
