@@ -90,6 +90,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
   icon: {
-  Size: 24,
+  width: 50,
+  height: 50,
   }
 });
